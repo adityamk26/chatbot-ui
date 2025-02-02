@@ -28,8 +28,8 @@ The Chatbot Setup Application is a multi-step demo platform that simulates the p
 ## Live Website
 
 You can view the live website here:  
-[https://your-live-website-url.com](https://your-live-website-url.com)  
-*(Replace the above URL with your actual deployed website URL.)*
+[https://chatbot-ui-xi-blue.vercel.app/]  
+
 
 ## Technologies Used
 
